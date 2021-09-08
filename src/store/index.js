@@ -1,0 +1,1 @@
+export {setImages} from './actions';
